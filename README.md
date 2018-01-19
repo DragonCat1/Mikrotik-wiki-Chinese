@@ -1,2 +1,2 @@
-# Mikrotik-wiki-Chinese
-很喜欢routeros，然后发现github没有中文的wiki，先开个坑
+# Mikrotik中文文档
+开个坑先
